@@ -1,6 +1,6 @@
 # flood-ale
 Predicts flood (yes/no) using supervised, batch and model-based learning methods.
-[![View Notebook]([https://shields.io](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white))](https://nbviewer.org/github/sadia3160/flood-ale/blob/main/FloodAle.ipynb)
+[View Notebook ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://nbviewer.org/github/sadia3160/flood-ale/blob/main/FloodAle.ipynb)
 
 **Algorithms used:**
 ---
