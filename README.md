@@ -1,6 +1,6 @@
 # flood-ale
 Predicts flood (yes/no) using supervised, batch and model-based learning methods.
-[View Notebook ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://nbviewer.org/github/sadia3160/flood-ale/blob/main/FloodAle.ipynb)
+> [![View Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://nbviewer.org/github/sadia3160/flood-ale/blob/main/FloodAle.ipynb)
 
 **Algorithms used:**
 ---
@@ -12,8 +12,9 @@ The dataset used for this model is ‘65 years of weather data of Bangladesh,' c
 80% of the data of this dataset was used for training and 20% for validation.
 
 <details>
-<summary>Citation</summary>
-```
+<summary>Dataset Citation</summary>
+    
+```bibtex
 @inproceedings{gauhar2021prediction,
     title={Prediction of Flood in Bangladesh using k-Nearest Neighbors Algorithm},
     author={Gauhar, Noushin and Das, Sunanda and Moury, Khadiza Sarwar},
@@ -23,12 +24,13 @@ The dataset used for this model is ‘65 years of weather data of Bangladesh,' c
     organization={IEEE}
 }
 ```
+
 </details>
 
 
 **Pipeline used:**
 ---
-1. Relevant libraries were imported, and the dataset was loaded, previewed and skimmed.
+1. Relevant libraries were imported, and the dataset was loaded and previewed.
 2. Missing values were handled and data preprocessed. 
 3. Dataset visualized before and after data preprocessing, dataset split, and feature scaled
 4. Base models of algorithms were created
