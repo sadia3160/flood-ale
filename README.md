@@ -1,5 +1,6 @@
 # flood-ale
-Predicts flood (yes/no) using supervised, batch and model-based learning methods
+Predicts flood (yes/no) using supervised, batch and model-based learning methods.
+[![View Notebook](https://shields.io)](https://nbviewer.org/github/sadia3160/flood-ale/blob/main/FloodAle.ipynb)
 
 **Algorithms used:**
 ---
